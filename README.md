@@ -1,6 +1,6 @@
 # SPLEE / Panopticum News
 
-**Panopticum News** is an experimental project that explores new forms of engagement with news media through data-driven visualizations. The goal is to challenge traditional ways of consuming online news by highlighting patterns, biases, and structures in large-scale news datasets.
+**Panopticum News** is an applied design project that explores new forms of engagement with news media through data visualizations. The goal is to challenge traditional ways of consuming online news by highlighting patterns, biases, and structures in large-scale news datasets.
 
 This work is part of the broader research project **SPLEE** – _Scalable Practices for a Living, Experimental Europe_, which investigates alternative modes of digital public discourse. More information about SPLEE can be found here: [https://difgl.de/projekte/splee/](https://difgl.de/projekte/splee/)
 
@@ -18,6 +18,10 @@ The dataset spans a period of **18 months**, from **January 2024 to April 2025**
 
 These data and analyses have been used to create interactive visualizations for a web-based project, presented as a three-chapter interactive essay:  
 👉 [https://hvts.francescamorini.com](https://hvts.francescamorini.com)
+
+```
+⚠️ This repository has documentation purposes, notebooks and scripts are not guaranteed to work out of the box.
+```
 
 ## Folder Structure
 

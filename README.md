@@ -4,6 +4,10 @@
 
 This work is part of the broader research project **SPLEE** – _Scalable Practices for a Living, Experimental Europe_, which investigates alternative modes of digital public discourse. More information about SPLEE can be found here: [https://difgl.de/projekte/splee/](https://difgl.de/projekte/splee/)
 
+```
+⚠️ This repository has documentation purposes only, notebooks and scripts are not guaranteed to work out of the box and might need to be updated.
+```
+
 ## Repository Overview
 
 This repository contains JavaScript scripts and Jupyter notebooks used for:
@@ -17,11 +21,9 @@ The dataset spans a period of **18 months**, from **January 2024 to April 2025**
 - **Zeit Online**: coverage for the year **2024** only
 
 These data and analyses have been used to create interactive visualizations for a web-based project, presented as a three-chapter interactive essay:  
-👉 [https://hvts.francescamorini.com](https://hvts.francescamorini.com)
+👉 [[https://hvts.francescamorini.com](https://hvts.francescamorini.com)
+](https://ctechfilmuniversity.github.io/hyper-visual-times/)
 
-```
-⚠️ This repository has documentation purposes, notebooks and scripts are not guaranteed to work out of the box.
-```
 
 ## Folder Structure
 
@@ -45,4 +47,4 @@ In the `data_preparation` subfolder the scripts dedicated to obtain data are inc
 
 ## Contributors
 
-The code included in this folder has been authored by [Francesca Morini](https://francescamorini.com) (Film University Babelsberg KONRAD WOLF, MetaLab Harvard & Berlin), [Jocelyn Shek](https://sociology.fas.harvard.edu/people/jocelyn-shek) (Harvard University), and Nemuël Link (University of Applied Sciences Lucern).
+The code included in this folder has been authored by [Francesca Morini](https://francescamorini.com) (Film University Babelsberg KONRAD WOLF, MetaLab Harvard & Berlin), [Jocelyn Shek](https://sociology.fas.harvard.edu/people/jocelyn-shek) (Harvard University), [Philipp Proff](https://philippproff.eu) (Film University Babelsberg KONRAD WOLF), and Nemuël Link (University of Applied Sciences Lucern).
